@@ -1,0 +1,87 @@
+.frame2{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column; 
+    height: 2088px;
+    padding: 93px 70px 160px;
+}
+.header_frame2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 64px;
+    line-height: 79.2px;
+    letter-spacing: 2.88px;
+    margin-bottom: 40px;
+}
+.button_view1{
+    background-color: #118DA8;
+    color: #ffff;
+    width: 178px;
+    height: 51px;
+    border-radius: 6px;
+    border: none;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 27px;
+}
+.block_frame2{
+    background-color: #000;
+    width: 1300px;
+    border-radius: 32px;
+    margin-bottom: 60px;
+}
+.block_frame2-2{
+    display: flex;
+    padding: 40px;
+}
+.block_frame2-2 > img{
+    width: 389px;
+    margin: 0 53px 0 0;
+}
+.text1{
+    display: inline-block;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #fff;
+    background-color: #191919;
+    border-radius: 6px;
+    margin-top: 8px;
+    margin-bottom: 48px;
+    padding: 0 16px;
+}
+.episodes_frame2{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 159%;
+    color: #118da8;
+    margin: 0 0 18px 0;
+}
+.h2{
+    font-size: 64px;
+    line-height: 70.4px;
+    letter-spacing: 2.56px;
+    margin: 0 0 28px 0;
+    width: 676px;
+    height: 141px;
+}
+.caption{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 150%;
+    margin: 0 0 18px 0;
+    color: rgba(255, 255, 255, 0.7);
+    width: 757px;
+}
+.button_view2{
+    background-color: #118DA8;
+    color: #ffff;
+    width: 208px;
+    height: 51px;
+    border-radius: 6px;
+    border: none;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+}

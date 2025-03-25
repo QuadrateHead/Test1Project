@@ -1,0 +1,53 @@
+.frame5{
+    height: 901px;
+    padding: 100px 70px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.block_frame5{
+    background-color: black;
+    width: 423px;
+    height: 321px;
+    border-radius: 32px;
+    margin: 8px;
+    padding: 54px 0 51px 50px;
+}
+.block1{
+    padding-right: 60px;
+}
+.block2{
+    padding-right: 85px;
+}
+.block3{
+    padding-right: 85px;
+}
+.block4{
+    padding-right: 72px;
+    height: 364px;
+}
+.block5{
+    padding-right: 65px;
+    height: 364px;
+}
+.block6 {
+    padding-right: 56px;
+    height: 364px;
+}
+.block6 .caption_frame5{
+    margin-top: 62px;
+}
+.star{
+    margin-bottom: 21px;
+}
+.h2_frame5{
+    font-size: 36px;
+    line-height: 43.2px;
+    margin-bottom: 19px;
+}
+.caption_frame5{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28.8px;
+    color: rgba(255, 255, 255, 0.7);
+    width: 154px;
+}
