@@ -53,10 +53,12 @@ strong{
 }
 .icons_socials{
     margin-top: 16px;
-    margin-left: -16px;
     width: 32px;
     height: 32px;
     display: flex;
     flex-direction: row;
     align-items: center;
+}
+.icons_socials a{ 
+    margin-right: 17px;
 }
