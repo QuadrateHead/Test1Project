@@ -1,6 +1,6 @@
 .frame5{
     height: 901px;
-    padding: 100px 70px;
+    padding: 92px 62px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
 }

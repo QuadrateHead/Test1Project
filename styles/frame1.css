@@ -3,7 +3,7 @@
     justify-content:space-around;
     align-items: center;
     height: 913px;
-    padding: 40px 130px 0 61px;
+    padding: 40px 130px 0 70px;
     color: #FFFF;
 }
 .img_frame1{
@@ -48,8 +48,7 @@ strong{
 .socials{
     font-size: 15px;
     line-height: 24px;
-    letter-spacing: 0;
-    
+    letter-spacing: 0; 
 }
 .icons_socials{
     margin-top: 16px;
